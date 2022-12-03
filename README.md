@@ -8,7 +8,7 @@ In 2017, all but one of the green enery stocks shows an increas in performance.<
 I would highly recommend looking at the ENPH stock.  Although the stock price is relatively low comared with DQ, the stock increased in 2017 and again in 2017, for another 81%.  Again, the price is lower which means that they could invest at a higher volume.  
 
 ### Comparison of Code Performance
-The original VB code that primarily used a nested loop to summarize volumes and return on price ran at approximately 36,000 cpu seconds for both years; whereas, the refactored code only took .09 and .06 cpu seconds for 2017 (![alt text](https://github.com/ericajackson8/stock-analysis/blob/main/VBA_Challenge_2017.png?raw=true)) and 2018(![alt text](https://github.com/ericajackson8/stock-analysis/blob/main/VBA_Challenge_2018.png?raw=true)), respectively.
+The original VB code that primarily used a nested loop to summarize volumes and return on price ran at approximately 36,000 cpu seconds for both years; whereas, the refactored code only took .09 and .06 cpu seconds for 2017 (![alt text](https://github.com/ericajackson8/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)) and 2018(![alt text](https://github.com/ericajackson8/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)), respectively.
 
 
 
